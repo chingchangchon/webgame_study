@@ -7,3 +7,4 @@
 ## 참가자
 - [cosmos1030](https://github.com/cosmos1030)
 - [jdj0711](https://github.com/jdj0711)
+# 내가 여러가지 글을 적어놓을 테니 제발 보아라
