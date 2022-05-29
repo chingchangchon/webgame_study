@@ -11,5 +11,7 @@
 ## 참가자
 - [cosmos1030](https://github.com/cosmos1030)
 - [jdj0711](https://github.com/jdj0711)
+## 공부 소스
+- [HTML5 Canvas Tutorial for Beginners](https://www.youtube.com/watch?v=EO6OkltgudE&list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL)
 ## 홈페이지
 - [https://chingchangchon.github.io/webgame_study/](https://chingchangchon.github.io/webgame_study/index.html)
