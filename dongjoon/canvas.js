@@ -27,7 +27,7 @@ for (var i = 0; i < 3; i++) {  // for 을 이용한 반복분
     var x = Math.random() * window.innerWidth; // x, y 좌표 랜덤 후 반복
     var y = Math.random() * window.innerHeight;// + 전체화면 안에서만 뜨게하기
     c.beginPath(); 
-c.arc(x, y, 30, 0, Math.PI =  7, false); // (x좌표, y좌표, 각도, 역방향표시여부)
+c.arc(x, y, 30, 0, Math.PI * 7, false); // (x좌표, y좌표, 각도, 역방향표시여부)
 c.strokeStyle = 'blue';
 c.stroke();
 }
