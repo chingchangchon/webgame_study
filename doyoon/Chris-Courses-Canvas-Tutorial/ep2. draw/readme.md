@@ -1,4 +1,4 @@
-# Resize canvas
+# Draw objects
 ## Overview
 - 직사각형, 선, 원을 그린다
 
@@ -45,9 +45,5 @@ c.strokeStyle = "#fa34a3"
 - 도형, 선의 색을 결정한다
 - blue와 같이 색을 직접 입력할 수 있고, 16진법 색을 입력할 수 있으며, 다음과 같이 rgba를 이용할 수도 있다
 - 도형 색의 경우 도형을 그리기 전에, 선 색의 경우 선을 그린 후에 코드를 작성한다
-
-```javascript
-c.strokeStyle = "#fa34a3"
-```
 
 ## 참고
