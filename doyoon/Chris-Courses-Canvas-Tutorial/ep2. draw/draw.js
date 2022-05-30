@@ -24,6 +24,6 @@ c.stroke();
 
 //how to draw circle
 c.beginPath();
-c.arc(300,300,30,0, Math.PI *2, false);
+c.arc(300,300,30,0, Math.PI *2, false); //x,y,radius,startangle, endangle, revearsed
 c.strokeStyle = 'blue';
 c.stroke();
